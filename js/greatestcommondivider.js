@@ -6,5 +6,4 @@ const greatestCommonDivisor = (a, b) => {
 };
 
 
-
 greatestCommonDivisor(Math.abs(2), Math.abs(3));
